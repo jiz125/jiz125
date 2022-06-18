@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ziwei, go by Z
 - 👀 I’m interested in yoga, music, guitar, hiking.....
-- 🌱 I’m currently a UX/UI student learning the role of technology in our life through design 
+- 🌱 I’m currently a Parsons student learning the role of technology in our life through design 
 - 📫 Reach me at jiz125@newschool.edu
 
 <!---
