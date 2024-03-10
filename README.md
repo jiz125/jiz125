@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ziwei, go by Z
-- 👀 Currently work as an experiential deisgner located at NYC.
+- 👀 Currently working as an experiential deisgner located at NYC.
 - 🌱 Finished my Master Design and Technology at Parsons 2 years ago.
 - 📫 Reach me at zj.ziweiji@gmail.com
 
