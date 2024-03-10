@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ziwei, go by Z
-- 👀 I’m interested in yoga, music, guitar, hiking.....
-- 🌱 I’m currently a Parsons student learning the role of technology in our life through design 
-- 📫 Reach me at jiz125@newschool.edu
+- 👀 Currently work as an experiential deisgner located at NYC.
+- 🌱 Finished my Master Design and Technology at Parsons 2 years ago.
+- 📫 Reach me at zj.ziweiji@gmail.com
 
 <!---
 jiz125/jiz125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
